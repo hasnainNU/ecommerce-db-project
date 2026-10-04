@@ -128,6 +128,6 @@ This project is for educational purposes.
 ## 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/maaz0336-debug
+GitHub: https://github.com/hasnainNU/ecommerce-db-project
 
 ---
